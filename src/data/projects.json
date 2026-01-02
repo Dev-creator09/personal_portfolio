@@ -1,0 +1,18 @@
+[
+  {
+    "title": "AI Fake News Detector",
+    "description": "Developed a full-stack web application that analyzes and classifies news articles as potentially fake or real using machine learning techniques and natural language processing. Implemented a text classification model using scikit-learn's RandomForest classifier with 85% accuracy. Built responsive UI with Flask, HTML/CSS for users to submit articles and view prediction results. Developed RESTful API endpoints for programmatic access to the classification system.",
+    "techUsed": "Python, Flask, NLP, Machine Learning, scikit-learn, HTML/CSS",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80"
+    }
+  },
+  {
+    "title": "Twitter-like Database System",
+    "description": "Developed a command-line interface for a Twitter-like social media database system using Python and SQLite. Implemented comprehensive user authentication with security measures against SQL injection attacks. Created robust search functionality allowing users to query tweets by keywords and hashtags. Collaborated with team members using Git for version control and work distribution.",
+    "techUsed": "Python, SQLite, SQL, CLI, Git",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80"
+    }
+  }
+]

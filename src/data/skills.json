@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Python",
+    "category": "Languages",
+    "description": "Primary programming language for ML and data analysis",
+    "icon": "python"
+  },
+  {
+    "name": "C",
+    "category": "Languages",
+    "description": "Low-level programming and system development",
+    "icon": "c"
+  },
+  {
+    "name": "SQL",
+    "category": "Languages",
+    "description": "Database querying and management",
+    "icon": "database"
+  },
+  {
+    "name": "HTML/CSS",
+    "category": "Languages",
+    "description": "Web development and styling",
+    "icon": "html5"
+  },
+  {
+    "name": "R",
+    "category": "Languages",
+    "description": "Statistical computing and graphics",
+    "icon": "r-project"
+  },
+  {
+    "name": "Java",
+    "category": "Languages",
+    "description": "Object-oriented programming",
+    "icon": "java"
+  },
+  {
+    "name": "JavaScript",
+    "category": "Languages",
+    "description": "Web development and scripting",
+    "icon": "javascript"
+  },
+  {
+    "name": "Flask",
+    "category": "Frameworks",
+    "description": "Python web framework",
+    "icon": "flask"
+  },
+  {
+    "name": "OpenAI API",
+    "category": "Frameworks",
+    "description": "AI integration and development",
+    "icon": "openai"
+  },
+  {
+    "name": "LangChain",
+    "category": "Frameworks",
+    "description": "LLM application framework",
+    "icon": "chain"
+  },
+  {
+    "name": "Git",
+    "category": "Developer Tools",
+    "description": "Version control system",
+    "icon": "git"
+  },
+  {
+    "name": "VS Code",
+    "category": "Developer Tools",
+    "description": "Code editor",
+    "icon": "vscode"
+  },
+  {
+    "name": "Visual Studio",
+    "category": "Developer Tools",
+    "description": "Integrated development environment",
+    "icon": "visualstudio"
+  },
+  {
+    "name": "PyCharm",
+    "category": "Developer Tools",
+    "description": "Python IDE",
+    "icon": "pycharm"
+  },
+  {
+    "name": "IntelliJ",
+    "category": "Developer Tools",
+    "description": "Java IDE",
+    "icon": "intellij"
+  },
+  {
+    "name": "pandas",
+    "category": "Libraries",
+    "description": "Data manipulation and analysis",
+    "icon": "pandas"
+  },
+  {
+    "name": "NumPy",
+    "category": "Libraries",
+    "description": "Numerical computing",
+    "icon": "numpy"
+  },
+  {
+    "name": "Matplotlib",
+    "category": "Libraries",
+    "description": "Data visualization",
+    "icon": "chart-line"
+  }
+]

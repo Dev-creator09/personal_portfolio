@@ -1,0 +1,49 @@
+[
+  {
+    "timelineType": "education",
+    "name": "University of Alberta",
+    "title": "BSc Computing Science Honors, Minor in Statistics — GPA: 3.8/4.0",
+    "techStack": "",
+    "summaryPoints": [
+      "Dean's Honour List: 2023 – 2024, 2024 – 2025",
+      "Relevant Courses: Foundations of Computation, Practical Programming Methodology, File and Database Management, Machine Learning, Computer Organization and Architecture, Probability and Statistics"
+    ],
+    "dateRange": "Aug 2023 - Present"
+  },
+  {
+    "timelineType": "work",
+    "name": "MedXAI",
+    "title": "Machine Learning Intern",
+    "techStack": "Python, scikit-learn, Statistical Analysis",
+    "summaryPoints": [
+      "Built a CVD risk calculator in Python, improving predictive accuracy by 13% compared to baseline models",
+      "Partnered with skilled medical researchers to present statistical findings clearly and guiding practical clinical insights",
+      "Applied Pearson correlation and chi-square tests to identify associations in datasets with 50+ clinical variables",
+      "Trained a machine learning model with scikit-learn, achieving an accuracy rate of 87% in predicting CVD risk"
+    ],
+    "dateRange": "Sept 2024 – Jan 2025"
+  },
+  {
+    "timelineType": "work",
+    "name": "University of Alberta",
+    "title": "Undergraduate Assistant",
+    "techStack": "Teaching, GitHub, Computing Science",
+    "summaryPoints": [
+      "Provided professional tutoring in CMPUT 174, CMPUT 175, CMPUT 272, CMPUT 204, CMPUT 201, CMPUT 267, CMPUT 229, CMPUT 291",
+      "Supported over 40 hours of drop-in sessions, simplifying complex concepts to improve comprehension and application",
+      "Explored ways to visualize GitHub collaboration in a classroom setting"
+    ],
+    "dateRange": "Aug 2024 – April 2025"
+  },
+  {
+    "timelineType": "work",
+    "name": "Mentorness",
+    "title": "Data Analyst Intern",
+    "techStack": "SQL, Power BI, Data Analysis",
+    "summaryPoints": [
+      "Utilized SQL to analyze hotel reservation data, uncovering trends and cancellation patterns that informed strategies projected to reduce booking cancellations by up to 15%",
+      "Created dynamic Power BI dashboards to visualize YouTube song analytics, revealing audience engagement trends that supported a 20% increase in content performance insights"
+    ],
+    "dateRange": "Jun. 2024 – Aug. 2024"
+  }
+]
